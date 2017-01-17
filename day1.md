@@ -75,8 +75,32 @@ Exercise: In your browser the format to enter a url is of the format hostname:po
 
 ### HTTP
 
-It's a protocol for transfering hypertext.
+It's a protocol for transfering hypertext. There are several commands that you can send an http server. They are called **HTTP Verbs**. The most common verb is the GET verb. Think of it as a command to get a piece of information from the server.
 
+As an exercise we are going to get the html from stack overflow. Go to the command line and type the follow:
+
+```
+telnet stackoverflow.com 80
+```
+
+This will open a TCP connection to the domain stackoverflow.com on port 80. Then type the following information into the telnet application.
+
+```
+ GET /questions HTTP/1.0
+ Accept: text/html
+ Host: stackoverflow.com
+```
+You should see html text
+
+Something else to try:
+
+```
+telnet codethedream.org 80
+
+GET /about HTTP/1.0
+Accept: text/html
+Host: codethedream.org
+```
 
 ### NAT
 
