@@ -79,6 +79,13 @@ It's a protocol for transfering hypertext. There are several commands that you c
 
 As an exercise we are going to get the html from stack overflow. Go to the command line and type the follow:
 
+Before using telnet in c9 you have install it by doing the following:
+
+```
+sudo apt-get -y update
+sudo apt-get -y install telnet
+```
+
 ```
 telnet stackoverflow.com 80
 ```
