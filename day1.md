@@ -1,5 +1,7 @@
 # The Internet
 
+[Class Video](https://www.youtube.com/watch?v=HyMxkZ62MEM)
+
 ### Internet Protocol
 
 In order for computers to communicate with each other they need a way to know
