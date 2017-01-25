@@ -1,3 +1,5 @@
+[Class Lecture](https://www.youtube.com/watch?v=2a4pdluASBo)
+
 # Git Exercise
 
 - create directory
