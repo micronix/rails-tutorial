@@ -1,3 +1,4 @@
+[Class Video](https://www.youtube.com/watch?v=fOo7ceW-J2o)
 ## Embeded Ruby
 
 ```erb
