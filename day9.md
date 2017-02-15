@@ -21,7 +21,7 @@ When rendering an html rails takes the following steps:
       - rander partial
     - render partial
 
-'''erb
+```erb
 <html>
   <head>
     <title><%= "Home | Rails tutotirla" %></title>
@@ -30,22 +30,22 @@ When rendering an html rails takes the following steps:
     <%= yield %>
   </body>
 </html>
-'''
+```
 
-'''erb
+```erb
 <h1><%= "Heading" %></h1>
 <%= render 'menu' %>
 <p>Content</p>
-'''
+```
 
-'''erb
+```erb
 <ul>
   <li>Home</li>
   <li>Users>/li>
   <li>Assignments</li>
 </ul>
 <%= @user.email %>
-'''
+```
 
 ## Asset Pipeline
 
