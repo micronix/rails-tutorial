@@ -1,5 +1,7 @@
 ## Rails HTML helper methods
 
+[Class Video](https://www.youtube.com/watch?v=jttDNC2PPf0)
+
 - link_to
 - image_tag
 
