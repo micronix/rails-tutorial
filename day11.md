@@ -32,7 +32,7 @@ rails c
 ```
 
 Step 5
-``bash
+```bash
 b = Book.new
 b.title = "The Iliad"
 b.author = "Homer"
