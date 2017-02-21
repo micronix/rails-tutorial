@@ -12,6 +12,28 @@ Your model Book should have the following attributes:
 
 Create a model with these columns, and run the migration and add 3 books
 
+Step 1
+
+```bash
+rails generate model <ModelName>
+```
+
+Step 2
+Edit the migration file
+
+Step 3
+```bash
+rails db:migrate
+```
+
+Step 4
+```bash
+rails c
+```
+
+
+
+
 What will the following ruby expressions be?
 
 - Book.count
@@ -30,3 +52,8 @@ What will the following ruby expressions be?
 
 User inherets from ApplicationRecord
 ApplicationRecord inherets from ActiveRecord::Base
+
+# Validations
+
+- types of validations
+- validation error messages
