@@ -31,6 +31,16 @@ Step 4
 rails c
 ```
 
+Step 5
+``bash
+b = Book.new
+b.title = "The Iliad"
+b.author = "Homer"
+b.published = "1987-10-01"
+b.description = "Voyage story"
+b.state = "read"
+b.save
+```
 
 
 
