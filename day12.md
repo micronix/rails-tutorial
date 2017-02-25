@@ -19,14 +19,14 @@ Complete the following tasks:
 - run the following code to create several guests in the rails console
 
 ```ruby
-Invitation.create(first_name: 'Bob', last_name: 'Burks', address: '123 Pine St', city: 'Raleigh', state: 'NC', zip: '27605', guests: 0, 'Rice')
-Invitation.create(first_name: 'Paul', last_name: 'Olive', address: '777 Cina Way', city: 'Durham', state: 'NC', zip: '27717', guests: 1, 'Sodas')
-Invitation.create(first_name: 'Jean', last_name: 'Smith', address: '823 Ilene Rd', city: 'Raleigh', state: 'NC', zip: '27604', guests: 3, 'Pizza')
-Invitation.create(first_name: 'Daniel', last_name: 'Jenkins', address: '324 Tess St', city: 'Cary', state: 'NC', zip: '27513', guests: 0, 'Cups & Plates')
-Invitation.create(first_name: 'Olga', last_name: 'Smith', address: '321 Pine St', city: 'Cary', state: 'NC', zip: '27513', guests: 1, 'Cake')
-Invitation.create(first_name: 'Mary', last_name: 'Burks', address: '7 Olyx Way', city: 'Raleigh', state: 'NC', zip: '27605', guests: 0, 'Salad')
-Invitation.create(first_name: 'Ashley', last_name: 'Walker', address: '127 Inca Rd', city: 'Apex', state: 'NC', zip: '27502', guests: 2, 'Pasta')
-Invitation.create(first_name: 'Todd', last_name: 'Gravel', address: '877 White Rd', city: 'Raleigh', state: 'NC', zip: '27603', guests: 0, 'Carrots')
+Invitation.create(first_name: 'Bob', last_name: 'Burks', address: '123 Pine St', city: 'Raleigh', state: 'NC', zip: '27605', guests: 0, contribution: 'Rice')
+Invitation.create(first_name: 'Paul', last_name: 'Olive', address: '777 Cina Way', city: 'Durham', state: 'NC', zip: '27717', guests: 1, contribution: 'Sodas')
+Invitation.create(first_name: 'Jean', last_name: 'Smith', address: '823 Ilene Rd', city: 'Raleigh', state: 'NC', zip: '27604', guests: 3, contribution: 'Pizza')
+Invitation.create(first_name: 'Daniel', last_name: 'Jenkins', address: '324 Tess St', city: 'Cary', state: 'NC', zip: '27513', guests: 0, contribution: 'Cups & Plates')
+Invitation.create(first_name: 'Olga', last_name: 'Smith', address: '321 Pine St', city: 'Cary', state: 'NC', zip: '27513', guests: 1, contribution: 'Cake')
+Invitation.create(first_name: 'Mary', last_name: 'Burks', address: '7 Olyx Way', city: 'Raleigh', state: 'NC', zip: '27605', guests: 0, contribution: 'Salad')
+Invitation.create(first_name: 'Ashley', last_name: 'Walker', address: '127 Inca Rd', city: 'Apex', state: 'NC', zip: '27502', guests: 2, contribution: 'Pasta')
+Invitation.create(first_name: 'Todd', last_name: 'Gravel', address: '877 White Rd', city: 'Raleigh', state: 'NC', zip: '27603', guests: 0, contribution: 'Carrots')
 ```
 
 Your task is to write code to get the following information:
