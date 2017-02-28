@@ -36,3 +36,16 @@ Patient.create(first_name: 'Todd', last_name: 'Gravel', dob: '1942-02-14', admit
 - come up with 3 other types of questions you could ask about the patients
 
 [Video](https://www.youtube.com/watch?v=vJG698U2Mvo)
+
+# Debugging (one of the most important skills in programming)
+
+The goal of debugging
+
+# Form helpers
+
+- form_for
+- text_field
+- email_field
+- password_field
+
+# Strong Params
