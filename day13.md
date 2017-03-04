@@ -15,7 +15,7 @@ Your ActiveRecord model you will keep track of patients at a hospital. Here are 
 
 ```ruby
 Patient.create(first_name: 'Bob', last_name: 'Burks', dob: '1992-10-01', admitted: '2016-12-04', released: '2017-02-25', illness: 'cancer')
-Patient.create(first_name: 'Paul', last_name: 'Olive', dob: '1962-09-05', admitted: '2016-12-02', released: '2016-12-13', illness: 'flu')
+Patient.create(first_name: 'Paul', last_name: 'Olive', dob: '1962-09-05', admitted: '2016-12-02', released: '2016-12-3', illness: 'flu')
 Patient.create(first_name: 'Jean', last_name: 'Smith', dob: '1992-10-01', admitted: '2016-12-20', released: '2017-02-15', illness: 'cancer')
 Patient.create(first_name: 'Daniel', last_name: 'Jenkins', dob: '1984-04-05', admitted: '2017-02-01', released: '2017-02-01', illness: 'broken bone')
 Patient.create(first_name: 'Olga', last_name: 'Smith', dob: '1982-05-05', admitted: '2017-01-01', released: '2017-01-04', illness: 'flu')
