@@ -26,3 +26,12 @@ Ticket.create(first_name: 'Todd', last_name: 'Gravel', source: 'RDU', destinatio
 - SFA tickets are missing destrination to Miami
 - LAX tickets should actually go to chicago
 - Daniel Jenkins should actually go from RDU to JFK
+
+
+```ruby
+Flight.create(number: '764', aircraft: '747', departure: '2017-03-05 11:10 AM')
+Flight.create(number: '87', aircraft: '737', departure: '2017-03-05 12:05 AM')
+Flight.create(number: '123', aircraft: '747', departure: '2017-03-05 1:10 PM')
+Flight.create(number: '99', aircraft: '747', departure: '2017-03-05 9:00 AM')
+
+```
