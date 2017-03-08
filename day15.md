@@ -1,5 +1,6 @@
-Reading: 8.1
-Video:
+**Reading: 8.1**
+
+**Video: [Day 15](http://youtu.be/CTr26hRdoF8)**
 
 # Questions:
 
@@ -9,7 +10,6 @@ Today you will need to keep track of genres and what movies are contained in eac
 
 ### Movies
 - title
-- genre
 - summary
 - year
 - genre_id
