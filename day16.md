@@ -1,4 +1,4 @@
-[Video]()
+[Video](http://youtu.be/IKlYGL4QLwg)
 
 **Reading: Finish Chapter 8**
 
