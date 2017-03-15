@@ -1,4 +1,4 @@
-[Video]()
+[Video](http://youtu.be/kkmrdEmtabI)
 
 Reading: Read until 9.1.3 [Params](https://www.youtube.com/watch?v=y57OnWV6dRE&t=15s)
 
