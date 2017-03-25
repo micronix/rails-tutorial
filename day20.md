@@ -1,8 +1,10 @@
-[Video]()
+[Video](http://youtu.be/DSOz_8gJq5I)
+Feedback Form: https://goo.gl/forms/VupDc3iMP9D1vhS33
 
 Reading: Finish Chapter 10
 
 ## Questions
+- instance variables
 - routes
 - what to put into the views?
 - what to put into the controller?
@@ -85,3 +87,8 @@ Also create an author model with the following properties:
 - bio
 
 Think about the similar patterns in the products app and how it would relate to our books app. In this example instead of products we have books, instead of categories we have authors. Think about the similarities between the two patterns but also try to be creative with how display information differently.
+
+
+```bash
+rails new rails-store
+```
