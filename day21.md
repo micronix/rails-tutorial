@@ -1,5 +1,7 @@
 [Video]()
+
 Quiz: https://goo.gl/forms/7ObBJbRgATCY3jni2
+
 Feedback Form: https://goo.gl/forms/rpoc3YWq33EpcOJ03
 
 Reading: Watch Day20 video and do the project
