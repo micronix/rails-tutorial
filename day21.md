@@ -1,4 +1,4 @@
-[Video]()
+[Video](http://youtu.be/J-fu6DemXpo)
 
 Quiz: https://goo.gl/forms/7ObBJbRgATCY3jni2
 
