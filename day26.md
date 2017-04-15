@@ -1,3 +1,7 @@
+[Class Video](https://www.youtube.com/watch?v=MKBG4OCS43M)
+
+Feedback: https://goo.gl/forms/dRXndydvBiP5zcGs2
+
 ## Future of classes
 
 - Week 14: News Site Complete
